@@ -6,6 +6,7 @@
   "description": "A simple stupid bot for jellyb",
   "dependencies": {
     "@throneless/hubot-file-brain": "^0.1.0",
+    "emojme-hubot-plugin": "jackellenberger/emojme-hubot-plugin#interactive-messaging",
     "hubot": "^3.3.0",
     "hubot-diagnostics": "^1.0.0",
     "hubot-google-images": "^0.2.7",
