@@ -3,4 +3,5 @@ node_modules
 .hubot_history
 build
 log
-brain.json
+*brain.json
+
