@@ -7,6 +7,5 @@
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-pugme",
-  "hubot-redis-brain",
   "@throneless/hubot-file-brain"
 ]

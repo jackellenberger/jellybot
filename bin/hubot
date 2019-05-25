@@ -1,10 +1,10 @@
 #!/bin/sh
-
 set -e
 
 npm install
-# npm link emojme-hubot-plugin
 export PATH="node_modules/.bin:node_modules/hubot/node_modules/.bin:$PATH"
 export HUBOT_FILEBRAIN_PATH="config"
+
+sed -i 's/EMOJME_USER_TOKEN/'"$EMOJME_USER_TOKEN"'/g' config/brain.json
 
 exec node_modules/.bin/hubot --name "jellybot" "$@"

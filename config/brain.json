@@ -1,0 +1,62 @@
+{
+    "cronjob": {
+        "265945": [
+            "0 */2 * * *",
+            {
+                "id": "U7Z8TC40K",
+                "name": "jack.a.ellenberger",
+                "real_name": "Jack Ellenberger",
+                "slack": {
+                    "id": "U7Z8TC40K",
+                    "team_id": "T7ZGGRLGN",
+                    "name": "jack.a.ellenberger",
+                    "deleted": false,
+                    "color": "5b89d5",
+                    "real_name": "Jack Ellenberger",
+                    "tz": "America/Chicago",
+                    "tz_label": "Central Daylight Time",
+                    "tz_offset": -18000,
+                    "profile": {
+                        "title": "",
+                        "phone": "",
+                        "skype": "",
+                        "real_name": "Jack Ellenberger",
+                        "real_name_normalized": "Jack Ellenberger",
+                        "display_name": "skelly",
+                        "display_name_normalized": "skelly",
+                        "status_text": "that’s right boys, mOnDo CoOL",
+                        "status_emoji": ":wheneveryoneelseismadbutyouyourselfarenotmadatall:",
+                        "status_expiration": 0,
+                        "avatar_hash": "a4e795914686",
+                        "image_original": "https://avatars.slack-edge.com/2017-11-13/270858319745_a4e795914686a58af9f0_original.jpg",
+                        "email": "jack.a.ellenberger@gmail.com",
+                        "first_name": "Jack",
+                        "last_name": "Ellenberger",
+                        "image_24": "https://avatars.slack-edge.com/2017-11-13/270858319745_a4e795914686a58af9f0_24.jpg",
+                        "image_32": "https://avatars.slack-edge.com/2017-11-13/270858319745_a4e795914686a58af9f0_32.jpg",
+                        "image_48": "https://avatars.slack-edge.com/2017-11-13/270858319745_a4e795914686a58af9f0_48.jpg",
+                        "image_72": "https://avatars.slack-edge.com/2017-11-13/270858319745_a4e795914686a58af9f0_72.jpg",
+                        "image_192": "https://avatars.slack-edge.com/2017-11-13/270858319745_a4e795914686a58af9f0_192.jpg",
+                        "image_512": "https://avatars.slack-edge.com/2017-11-13/270858319745_a4e795914686a58af9f0_512.jpg",
+                        "image_1024": "https://avatars.slack-edge.com/2017-11-13/270858319745_a4e795914686a58af9f0_1024.jpg",
+                        "status_text_canonical": "",
+                        "team": "T7ZGGRLGN",
+                        "is_custom_image": true
+                    },
+                    "is_admin": false,
+                    "is_owner": false,
+                    "is_primary_owner": false,
+                    "is_restricted": false,
+                    "is_ultra_restricted": false,
+                    "is_bot": false,
+                    "is_app_user": false,
+                    "updated": 1552518444
+                },
+                "email_address": "jack.a.ellenberger@gmail.com",
+                "room": "DGDHQBBQC"
+            },
+            "@jellybot emojme refresh with my super secret user token that i will not post in any public channels: EMOJME_USER_TOKEN",
+            "America/Chicago"
+        ]
+    }
+}
