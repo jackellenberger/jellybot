@@ -6,5 +6,7 @@ export PATH="node_modules/.bin:node_modules/hubot/node_modules/.bin:$PATH"
 export HUBOT_FILEBRAIN_PATH="config"
 
 sed -i 's/EMOJME_USER_TOKEN/'"$EMOJME_USER_TOKEN"'/g' config/brain.json
+sed -i 's/HUBOT_CRON_DEFAULT_ROOM/'"$HUBOT_CRON_DEFAULT_ROOM"'/g' config/brain.json
+sed -i 's/HUBOT_CRON_DEFAULT_PATTERN/'"$HUBOT_CRON_DEFAULT_PATTERN"'/g' config/brain.json
 
 exec node_modules/.bin/hubot --name "jellybot" "$@"

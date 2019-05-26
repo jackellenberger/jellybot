@@ -1,7 +1,7 @@
 {
     "cronjob": {
         "265945": [
-            "0 */2 * * *",
+            "HUBOT_CRON_DEFAULT_PATTERN",
             {
                 "id": "U7Z8TC40K",
                 "name": "jack.a.ellenberger",
@@ -53,7 +53,7 @@
                     "updated": 1552518444
                 },
                 "email_address": "jack.a.ellenberger@gmail.com",
-                "room": "DGDHQBBQC"
+                "room": "HUBOT_CRON_DEFAULT_ROOM"
             },
             "@jellybot emojme refresh with my super secret user token that i will not post in any public channels: EMOJME_USER_TOKEN",
             "America/Chicago"
