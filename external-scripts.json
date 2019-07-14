@@ -7,5 +7,5 @@
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-pugme",
-  "@throneless/hubot-file-brain"
+  "@jackellenberger/hubot-file-brain-utils"
 ]

@@ -5,7 +5,7 @@
   "author": "jackellenberger <jellenberger@uchicago.edu>",
   "description": "A simple stupid bot for jellyb",
   "dependencies": {
-    "@throneless/hubot-file-brain": "^0.1.0",
+    "@jackellenberger/hubot-file-brain-util": "git+https://github.com/jackellenberger/hubot-file-brain-utils.git#master",
     "emojme-hubot-plugin": "^0.5.10",
     "hubot": "^3.3.2",
     "hubot-cron-commands": "^0.2.0",
